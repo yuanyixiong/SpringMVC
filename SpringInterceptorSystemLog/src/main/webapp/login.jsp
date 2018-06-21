@@ -1,0 +1,1 @@
+<jsp:forward page="springmvc/userController/to_login"></jsp:forward>  
